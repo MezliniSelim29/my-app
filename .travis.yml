@@ -1,0 +1,10 @@
+language: bash 
+
+sudo: required 
+
+service: 
+- docker 
+
+script: 
+
+- echo "hello world"
